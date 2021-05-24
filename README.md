@@ -12,11 +12,10 @@ I'm currently a Sophmore Computer Science Student at University of Ontario Insti
 - 😄 Fun Fact: I like playing video games 🎮 and photograph 📸
 
 ## Contact Info
-[<img align="left" width="30px" src="https://simpleicons.org/icons/linkedin.svg" alt="Kenneth's Linkedin" />][linkedin]
-[<img align="left" width="30px" src="https://simpleicons.org/icons/gmail.svg" alt="Kenneth's Email" />][email]
+[<img align="left" width="30px" target="_blank" src="https://simpleicons.org/icons/linkedin.svg" alt="Kenneth's Linkedin" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/kennethtse14/
-[email]: tse.kenneth79@gmail.com
+
 
 
