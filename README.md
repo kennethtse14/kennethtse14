@@ -8,7 +8,7 @@ I'm currently a Sophmore Computer Science Student at University of Ontario Insti
 - 📖 I'm currently learning HTML/CSS/JavaScript
 - 💻 I'm looking to start a new project and currently pursuing an internship
 - 🎆 2021 Goals: Learn new programming languages
-- 😄 Fun Fact: I like playing video games 🎮 and photography 📸
+- 😄 Fun Fact: I like playing video games 🎮
 
 ---
 
