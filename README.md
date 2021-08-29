@@ -1,5 +1,5 @@
 <h2>Hello, I'm Kenneth Tse! 👋</h2>
-I'm currently a Sophmore Computer Science Student at University of Ontario Institute of Technology.
+I'm currently a Sophmore Computer Science Student at Ontario Tech University.
 
 ---
 
