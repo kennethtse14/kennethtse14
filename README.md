@@ -6,9 +6,9 @@ I'm currently a Junior Computer Science Student at Ontario Tech University.
 ## About Me
 - 🎓 I'm currently working on my bachelor's degree in Computer Science
 - 📖 I'm currently learning HTML/CSS/JavaScript
-- 💻 I'm looking to start a new project and currently pursuing an internship
-- 🎆 2021 Goals: Learn new programming languages
-- 😄 Fun Fact: I like playing video games 🎮
+- 💻 I'm looking to start a new project and currently pursuing an internship for Winter/Summer 2023
+- 🎆 2022 Goals: Learn mobile development (Flutter/Dart)
+- 😄 Fun Fact: I like video games 🎮 and sightseeing!
 
 ---
 
