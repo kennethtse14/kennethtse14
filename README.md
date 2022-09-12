@@ -1,14 +1,14 @@
-<h2>Hello, I'm Kenneth! 👋</h2>
+<h2>Hello there, I'm Kenneth! 👋</h2>
 I'm currently a Junior Computer Science Student at Ontario Tech University.
 
 ---
 
 ## About Me
-- 🎓 I'm currently working on my bachelor's degree in Computer Science
-- 📖 I'm currently learning HTML/CSS/JavaScript
-- 💻 I'm looking to start a new project and currently pursuing an internship for Winter/Summer 2023
-- 🎆 2022 Goals: Learn mobile development (Flutter/Dart)
-- 😄 Fun Fact: I like video games 🎮 and sightseeing!
+- 🎓 I'm currently working on completing my bachelor's degree in Computer Science
+- 📖 I'm currently learning Flutter and Dart (Mobile Development)
+- 💻 Pursuing an internship for Winter/Summer 2023
+- 🎆 2022 Goals: Travel the world more!
+- 😄 Fun Facts: I like video games 🎮, basketball 🏀, and traveling the world 🌍!
 
 ---
 
