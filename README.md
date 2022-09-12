@@ -1,4 +1,4 @@
-<h2>Hello, I'm Kenneth Tse! 👋</h2>
+<h2>Hello, I'm Kenneth! 👋</h2>
 I'm currently a Junior Computer Science Student at Ontario Tech University.
 
 ---
@@ -12,7 +12,7 @@ I'm currently a Junior Computer Science Student at Ontario Tech University.
 
 ---
 
-## Contact Info
+## Connect with me:
 [<img align="left" width="30px" target="_blank" src="https://simpleicons.org/icons/linkedin.svg" alt="Kenneth's Linkedin" />][linkedin]
 [<img align="left" width="30px" target="_blank" src="https://simpleicons.org/icons/gmail.svg" alt="Kenneth's email" />][gmail]
 
