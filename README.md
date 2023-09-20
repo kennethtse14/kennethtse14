@@ -5,8 +5,6 @@ I'm currently a Senior Computer Science Student at Ontario Tech University.
 
 ## About Me
 - 🎓 I'm currently working on completing my bachelor's degree in Computer Science
-- 📖 I'm currently learning Flutter and Dart (Mobile Development)
-- 💻 Pursuing an internship for Fall 2023
 - 🎆 2023 Goals: Travel the world more!
 - 😄 Fun Facts: I like video games 🎮, basketball 🏀, and traveling the world 🌍!
 
